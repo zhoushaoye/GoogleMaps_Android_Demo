@@ -40,7 +40,7 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
     private var destinationLatLng: LatLng = LatLng(1.0, 1.0)
     companion object {
         private const val API_KEY =
-            "AIzaSyCYEjZVnDQWY01I6XMdQq5pj8FXsvu2V28"
+            "申请的谷歌地图APIKEY"
         private val LOCATION_PERMISSION_REQUEST_CODE = 1
     }
 

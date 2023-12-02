@@ -25,7 +25,7 @@
         </activity>
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCYEjZVnDQWY01I6XMdQq5pj8FXsvu2V28"/>
+            android:value="申请的谷歌地图APIKEY"/>
     </application>
 
 </manifest>
